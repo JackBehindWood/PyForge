@@ -22,7 +22,7 @@ pip install -e .
 ## Usage
 
 ## Examples
-Check the examples/ folder for sample projects and workflows.
+Check the `examples/` folder for sample projects and workflows.
 
 ## Contributing
 Contributions are welcome! Please open an issue or pull request.
